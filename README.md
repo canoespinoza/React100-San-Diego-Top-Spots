@@ -1,0 +1,1 @@
+This website has info for 30 of coolest things to do in San Diego! Copy the repo, start the server in your terminal using npm start, and use the url localhost:3000 to check out these sweet spots. Map to locations included!
